@@ -1,0 +1,19 @@
+Benchmark: seq
+Inputs: 41
+Outputs: 35
+BDD type: SBDD
+BDD construct time (s): 0.5357563495635986
+	Output variables: f0, f1, f2, f3, f4, f5, f6, f7, f8, f9, f10, f11, f12, f13, f14, f15, f16, f17, f18, f19, f20, f21, f22, f23, f24, f25, f26, f27, f28, f29, f30, f31, f32, f33, f34
+	Nodes: 1302
+	Edges: 2600
+	BDD show time (s): 0.1349625587463379
+COMPACT version: K-labeling
+Nodes: 1302
+Edges: 2600
+Layer 0: 713
+Layer 1: 666
+Rows: 713
+Columns: 666
+Objective: 1379.0
+Gap (%): 0
+COMPACT time (s): 14.351279497146606

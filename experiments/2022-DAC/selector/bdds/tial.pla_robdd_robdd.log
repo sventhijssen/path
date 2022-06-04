@@ -1,0 +1,37 @@
+Benchmark: tial
+Inputs: 14
+Outputs: 8
+BDD type: ROBDD
+BDD construct time (s): 0.7376625537872314
+	Output variable: f0
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.05124926567077637
+	Output variable: f1
+	Nodes: 64
+	Edges: 124
+	BDD show time (s): 0.05120682716369629
+	Output variable: f2
+	Nodes: 170
+	Edges: 336
+	BDD show time (s): 0.05143404006958008
+	Output variable: f3
+	Nodes: 305
+	Edges: 606
+	BDD show time (s): 0.051787376403808594
+	Output variable: f4
+	Nodes: 140
+	Edges: 276
+	BDD show time (s): 0.05155539512634277
+	Output variable: f5
+	Nodes: 286
+	Edges: 568
+	BDD show time (s): 0.05180501937866211
+	Output variable: f6
+	Nodes: 111
+	Edges: 218
+	BDD show time (s): 0.05159592628479004
+	Output variable: f7
+	Nodes: 27
+	Edges: 50
+	BDD show time (s): 0.05146288871765137

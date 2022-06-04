@@ -1,0 +1,17 @@
+Benchmark: adder2
+Inputs: 5
+Outputs: 3
+BDD type: SBDD
+BDD construct time (s): 0.44613003730773926
+	Output variables: cout, s1, s0
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.062151193618774414
+Nodes: 18
+Edges: 29
+Rows: 18
+Columns: 29
+PATH time (s): 0.002211332321166992
+Benchmark: adder2
+Inputs: 5
+Outputs: 3

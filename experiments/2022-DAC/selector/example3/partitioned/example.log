@@ -1,0 +1,37 @@
+Benchmark: example
+Inputs: 4
+Outputs: 1
+BDD type: ROBDD
+BDD construct time (s): 0.48021459579467773
+	Output variable: f
+	Nodes: 8
+	Edges: 12
+	BDD show time (s): 0.05119442939758301
+Number of nodes: 7
+Number of edges: 8
+Partition alpha: 0.0
+Partition D: 4
+Partition K: 3
+Partition ILP time (s): 0.11399054527282715
+Partition status: Optimal
+Partition objective S: 10.0
+N: 3
+I: 10
+Roots: [0]
+Terminal: [6]
+Gap (%): 17.18
+	Crossbar: 0
+	Rows: 4
+	Columns: 4
+	Nodes: [2, 4, 5, 6]
+	Edges: [(2, 4), (2, 5), (4, 6), (5, 6)]
+	Crossbar: 1
+	Rows: 2
+	Columns: 1
+	Nodes: [3, 5]
+	Edges: [(3, 5)]
+	Crossbar: 2
+	Rows: 4
+	Columns: 3
+	Nodes: [0, 1, 2, 3]
+	Edges: [(0, 3), (0, 1), (1, 2)]

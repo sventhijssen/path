@@ -1,0 +1,17 @@
+Benchmark: apex2
+Inputs: 39
+Outputs: 3
+BDD type: ROBDD
+BDD construct time (s): 0.7712428569793701
+	Output variable: f0
+	Nodes: 296
+	Edges: 588
+	BDD show time (s): 0.052108049392700195
+	Output variable: f1
+	Nodes: 177
+	Edges: 350
+	BDD show time (s): 0.052078962326049805
+	Output variable: f2
+	Nodes: 227
+	Edges: 450
+	BDD show time (s): 0.05238056182861328

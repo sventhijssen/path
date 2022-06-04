@@ -1,0 +1,81 @@
+Benchmark: apex4
+Inputs: 9
+Outputs: 19
+BDD type: ROBDD
+BDD construct time (s): 0.4844393730163574
+	Output variable: f0
+	Nodes: 1
+	Edges: 0
+	BDD show time (s): 0.05091524124145508
+	Output variable: f1
+	Nodes: 76
+	Edges: 148
+	BDD show time (s): 0.05179166793823242
+	Output variable: f2
+	Nodes: 109
+	Edges: 214
+	BDD show time (s): 0.05194878578186035
+	Output variable: f3
+	Nodes: 95
+	Edges: 186
+	BDD show time (s): 0.05194425582885742
+	Output variable: f4
+	Nodes: 108
+	Edges: 212
+	BDD show time (s): 0.05199551582336426
+	Output variable: f5
+	Nodes: 109
+	Edges: 214
+	BDD show time (s): 0.05209827423095703
+	Output variable: f6
+	Nodes: 107
+	Edges: 210
+	BDD show time (s): 0.052239418029785156
+	Output variable: f7
+	Nodes: 107
+	Edges: 210
+	BDD show time (s): 0.05206918716430664
+	Output variable: f8
+	Nodes: 105
+	Edges: 206
+	BDD show time (s): 0.05211663246154785
+	Output variable: f9
+	Nodes: 106
+	Edges: 208
+	BDD show time (s): 0.05213785171508789
+	Output variable: f10
+	Nodes: 105
+	Edges: 206
+	BDD show time (s): 0.05214357376098633
+	Output variable: f11
+	Nodes: 93
+	Edges: 182
+	BDD show time (s): 0.05216789245605469
+	Output variable: f12
+	Nodes: 79
+	Edges: 154
+	BDD show time (s): 0.05198025703430176
+	Output variable: f13
+	Nodes: 79
+	Edges: 154
+	BDD show time (s): 0.05207085609436035
+	Output variable: f14
+	Nodes: 91
+	Edges: 178
+	BDD show time (s): 0.05203747749328613
+	Output variable: f15
+	Nodes: 39
+	Edges: 74
+	BDD show time (s): 0.051900625228881836
+	Output variable: f16
+	Nodes: 31
+	Edges: 58
+	BDD show time (s): 0.05183053016662598
+	Output variable: f17
+	Nodes: 33
+	Edges: 62
+	BDD show time (s): 0.0519258975982666
+	Output variable: f18
+	Nodes: 38
+	Edges: 72
+	BDD show time (s): 0.05173230171203613

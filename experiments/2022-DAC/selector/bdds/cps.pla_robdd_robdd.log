@@ -1,0 +1,441 @@
+Benchmark: cps
+Inputs: 24
+Outputs: 109
+BDD type: ROBDD
+BDD construct time (s): 0.7386415004730225
+	Output variable: f0
+	Nodes: 51
+	Edges: 98
+	BDD show time (s): 0.05201220512390137
+	Output variable: f1
+	Nodes: 53
+	Edges: 102
+	BDD show time (s): 0.05164670944213867
+	Output variable: f2
+	Nodes: 64
+	Edges: 124
+	BDD show time (s): 0.05174899101257324
+	Output variable: f3
+	Nodes: 9
+	Edges: 14
+	BDD show time (s): 0.051253557205200195
+	Output variable: f4
+	Nodes: 9
+	Edges: 14
+	BDD show time (s): 0.05126023292541504
+	Output variable: f5
+	Nodes: 9
+	Edges: 14
+	BDD show time (s): 0.05110955238342285
+	Output variable: f6
+	Nodes: 9
+	Edges: 14
+	BDD show time (s): 0.05114102363586426
+	Output variable: f7
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.051686763763427734
+	Output variable: f8
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.051822662353515625
+	Output variable: f9
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05170726776123047
+	Output variable: f10
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.051473140716552734
+	Output variable: f11
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.051598548889160156
+	Output variable: f12
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05174422264099121
+	Output variable: f13
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05157732963562012
+	Output variable: f14
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.052050113677978516
+	Output variable: f15
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05165886878967285
+	Output variable: f16
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05607128143310547
+	Output variable: f17
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.051640987396240234
+	Output variable: f18
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05174827575683594
+	Output variable: f19
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05163884162902832
+	Output variable: f20
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05145597457885742
+	Output variable: f21
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05179309844970703
+	Output variable: f22
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05161738395690918
+	Output variable: f23
+	Nodes: 27
+	Edges: 50
+	BDD show time (s): 0.051485538482666016
+	Output variable: f24
+	Nodes: 80
+	Edges: 156
+	BDD show time (s): 0.051897525787353516
+	Output variable: f25
+	Nodes: 25
+	Edges: 46
+	BDD show time (s): 0.05185508728027344
+	Output variable: f26
+	Nodes: 23
+	Edges: 42
+	BDD show time (s): 0.05164146423339844
+	Output variable: f27
+	Nodes: 41
+	Edges: 78
+	BDD show time (s): 0.05165910720825195
+	Output variable: f28
+	Nodes: 22
+	Edges: 40
+	BDD show time (s): 0.05128955841064453
+	Output variable: f29
+	Nodes: 15
+	Edges: 26
+	BDD show time (s): 0.05132102966308594
+	Output variable: f30
+	Nodes: 13
+	Edges: 22
+	BDD show time (s): 0.05134773254394531
+	Output variable: f31
+	Nodes: 43
+	Edges: 82
+	BDD show time (s): 0.051729440689086914
+	Output variable: f32
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.05177712440490723
+	Output variable: f33
+	Nodes: 44
+	Edges: 84
+	BDD show time (s): 0.05211973190307617
+	Output variable: f34
+	Nodes: 26
+	Edges: 48
+	BDD show time (s): 0.05167579650878906
+	Output variable: f35
+	Nodes: 34
+	Edges: 64
+	BDD show time (s): 0.05189394950866699
+	Output variable: f36
+	Nodes: 32
+	Edges: 60
+	BDD show time (s): 0.05183982849121094
+	Output variable: f37
+	Nodes: 56
+	Edges: 108
+	BDD show time (s): 0.051827192306518555
+	Output variable: f38
+	Nodes: 62
+	Edges: 120
+	BDD show time (s): 0.051911354064941406
+	Output variable: f39
+	Nodes: 65
+	Edges: 126
+	BDD show time (s): 0.05205583572387695
+	Output variable: f40
+	Nodes: 63
+	Edges: 122
+	BDD show time (s): 0.05203413963317871
+	Output variable: f41
+	Nodes: 43
+	Edges: 82
+	BDD show time (s): 0.052008867263793945
+	Output variable: f42
+	Nodes: 58
+	Edges: 112
+	BDD show time (s): 0.05196809768676758
+	Output variable: f43
+	Nodes: 24
+	Edges: 44
+	BDD show time (s): 0.051813602447509766
+	Output variable: f44
+	Nodes: 53
+	Edges: 102
+	BDD show time (s): 0.052022695541381836
+	Output variable: f45
+	Nodes: 29
+	Edges: 54
+	BDD show time (s): 0.0520322322845459
+	Output variable: f46
+	Nodes: 22
+	Edges: 40
+	BDD show time (s): 0.05238175392150879
+	Output variable: f47
+	Nodes: 36
+	Edges: 68
+	BDD show time (s): 0.05192875862121582
+	Output variable: f48
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.05181241035461426
+	Output variable: f49
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.05185651779174805
+	Output variable: f50
+	Nodes: 32
+	Edges: 60
+	BDD show time (s): 0.05203390121459961
+	Output variable: f51
+	Nodes: 9
+	Edges: 14
+	BDD show time (s): 0.05114293098449707
+	Output variable: f52
+	Nodes: 42
+	Edges: 80
+	BDD show time (s): 0.052039384841918945
+	Output variable: f53
+	Nodes: 34
+	Edges: 64
+	BDD show time (s): 0.05187344551086426
+	Output variable: f54
+	Nodes: 30
+	Edges: 56
+	BDD show time (s): 0.05197596549987793
+	Output variable: f55
+	Nodes: 27
+	Edges: 50
+	BDD show time (s): 0.05191802978515625
+	Output variable: f56
+	Nodes: 23
+	Edges: 42
+	BDD show time (s): 0.05205035209655762
+	Output variable: f57
+	Nodes: 29
+	Edges: 54
+	BDD show time (s): 0.051940202713012695
+	Output variable: f58
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.05177426338195801
+	Output variable: f59
+	Nodes: 36
+	Edges: 68
+	BDD show time (s): 0.05203962326049805
+	Output variable: f60
+	Nodes: 23
+	Edges: 42
+	BDD show time (s): 0.051946401596069336
+	Output variable: f61
+	Nodes: 21
+	Edges: 38
+	BDD show time (s): 0.05184626579284668
+	Output variable: f62
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.05199027061462402
+	Output variable: f63
+	Nodes: 23
+	Edges: 42
+	BDD show time (s): 0.05193972587585449
+	Output variable: f64
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05202221870422363
+	Output variable: f65
+	Nodes: 34
+	Edges: 64
+	BDD show time (s): 0.051897287368774414
+	Output variable: f66
+	Nodes: 43
+	Edges: 82
+	BDD show time (s): 0.05210423469543457
+	Output variable: f67
+	Nodes: 21
+	Edges: 38
+	BDD show time (s): 0.05208611488342285
+	Output variable: f68
+	Nodes: 23
+	Edges: 42
+	BDD show time (s): 0.05415654182434082
+	Output variable: f69
+	Nodes: 24
+	Edges: 44
+	BDD show time (s): 0.051909685134887695
+	Output variable: f70
+	Nodes: 25
+	Edges: 46
+	BDD show time (s): 0.052028656005859375
+	Output variable: f71
+	Nodes: 18
+	Edges: 32
+	BDD show time (s): 0.052201271057128906
+	Output variable: f72
+	Nodes: 32
+	Edges: 60
+	BDD show time (s): 0.052191972732543945
+	Output variable: f73
+	Nodes: 47
+	Edges: 90
+	BDD show time (s): 0.05240345001220703
+	Output variable: f74
+	Nodes: 26
+	Edges: 48
+	BDD show time (s): 0.05195188522338867
+	Output variable: f75
+	Nodes: 27
+	Edges: 50
+	BDD show time (s): 0.051978349685668945
+	Output variable: f76
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.05187368392944336
+	Output variable: f77
+	Nodes: 25
+	Edges: 46
+	BDD show time (s): 0.052071332931518555
+	Output variable: f78
+	Nodes: 31
+	Edges: 58
+	BDD show time (s): 0.051843881607055664
+	Output variable: f79
+	Nodes: 21
+	Edges: 38
+	BDD show time (s): 0.05203676223754883
+	Output variable: f80
+	Nodes: 25
+	Edges: 46
+	BDD show time (s): 0.05228686332702637
+	Output variable: f81
+	Nodes: 24
+	Edges: 44
+	BDD show time (s): 0.05227923393249512
+	Output variable: f82
+	Nodes: 25
+	Edges: 46
+	BDD show time (s): 0.05225992202758789
+	Output variable: f83
+	Nodes: 26
+	Edges: 48
+	BDD show time (s): 0.051920413970947266
+	Output variable: f84
+	Nodes: 28
+	Edges: 52
+	BDD show time (s): 0.05207538604736328
+	Output variable: f85
+	Nodes: 8
+	Edges: 12
+	BDD show time (s): 0.051519155502319336
+	Output variable: f86
+	Nodes: 27
+	Edges: 50
+	BDD show time (s): 0.05240654945373535
+	Output variable: f87
+	Nodes: 29
+	Edges: 54
+	BDD show time (s): 0.05305194854736328
+	Output variable: f88
+	Nodes: 26
+	Edges: 48
+	BDD show time (s): 0.05192708969116211
+	Output variable: f89
+	Nodes: 10
+	Edges: 16
+	BDD show time (s): 0.0516357421875
+	Output variable: f90
+	Nodes: 23
+	Edges: 42
+	BDD show time (s): 0.0521845817565918
+	Output variable: f91
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.052281856536865234
+	Output variable: f92
+	Nodes: 8
+	Edges: 12
+	BDD show time (s): 0.051393747329711914
+	Output variable: f93
+	Nodes: 12
+	Edges: 20
+	BDD show time (s): 0.051502227783203125
+	Output variable: f94
+	Nodes: 3
+	Edges: 2
+	BDD show time (s): 0.050848960876464844
+	Output variable: f95
+	Nodes: 7
+	Edges: 10
+	BDD show time (s): 0.051383256912231445
+	Output variable: f96
+	Nodes: 9
+	Edges: 14
+	BDD show time (s): 0.05138278007507324
+	Output variable: f97
+	Nodes: 9
+	Edges: 14
+	BDD show time (s): 0.05159330368041992
+	Output variable: f98
+	Nodes: 10
+	Edges: 16
+	BDD show time (s): 0.05140352249145508
+	Output variable: f99
+	Nodes: 9
+	Edges: 14
+	BDD show time (s): 0.05155682563781738
+	Output variable: f100
+	Nodes: 8
+	Edges: 12
+	BDD show time (s): 0.05128335952758789
+	Output variable: f101
+	Nodes: 19
+	Edges: 34
+	BDD show time (s): 0.052211761474609375
+	Output variable: f102
+	Nodes: 1
+	Edges: 0
+	BDD show time (s): 0.050803184509277344
+	Output variable: f103
+	Nodes: 1
+	Edges: 0
+	BDD show time (s): 0.05079770088195801
+	Output variable: f104
+	Nodes: 1
+	Edges: 0
+	BDD show time (s): 0.05093073844909668
+	Output variable: f105
+	Nodes: 1
+	Edges: 0
+	BDD show time (s): 0.05098557472229004
+	Output variable: f106
+	Nodes: 1
+	Edges: 0
+	BDD show time (s): 0.05097246170043945
+	Output variable: f107
+	Nodes: 1
+	Edges: 0
+	BDD show time (s): 0.05084657669067383
+	Output variable: f108
+	Nodes: 1
+	Edges: 0
+	BDD show time (s): 0.050879478454589844

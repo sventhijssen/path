@@ -1,0 +1,9 @@
+Benchmark: example
+Inputs: 3
+Outputs: 1
+BDD type: ROBDD
+BDD construct time (s): 0.468677282333374
+	Output variable: f
+	Nodes: 5
+	Edges: 6
+	BDD show time (s): 0.05129861831665039

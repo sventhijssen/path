@@ -1,0 +1,19 @@
+Benchmark: misex3
+Inputs: 14
+Outputs: 14
+BDD type: SBDD
+BDD construct time (s): 0.43608570098876953
+	Output variables: f0, f1, f2, f3, f4, f5, f6, f7, f8, f9, f10, f11, f12, f13
+	Nodes: 674
+	Edges: 1344
+	BDD show time (s): 0.07812786102294922
+COMPACT version: K-labeling
+Nodes: 673
+Edges: 1094
+Layer 0: 356
+Layer 1: 377
+Rows: 356
+Columns: 377
+Objective: 733.0
+Gap (%): 7.06
+COMPACT time (s): 22.97938561439514

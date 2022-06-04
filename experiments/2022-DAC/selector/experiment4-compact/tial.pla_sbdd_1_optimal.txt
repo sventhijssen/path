@@ -1,0 +1,19 @@
+Benchmark: tial
+Inputs: 14
+Outputs: 8
+BDD type: SBDD
+BDD construct time (s): 0.4698457717895508
+	Output variables: f0, f1, f2, f3, f4, f5, f6, f7
+	Nodes: 897
+	Edges: 1790
+	BDD show time (s): 0.0852968692779541
+COMPACT version: K-labeling
+Nodes: 896
+Edges: 1717
+Layer 0: 468
+Layer 1: 490
+Rows: 468
+Columns: 490
+Objective: 957.9999999999998
+Gap (%): 75.73
+COMPACT time (s): 41.86026358604431

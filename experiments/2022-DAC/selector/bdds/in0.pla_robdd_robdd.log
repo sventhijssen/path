@@ -1,0 +1,49 @@
+Benchmark: in0
+Inputs: 15
+Outputs: 11
+BDD type: ROBDD
+BDD construct time (s): 0.7242212295532227
+	Output variable: f0
+	Nodes: 54
+	Edges: 104
+	BDD show time (s): 0.0513308048248291
+	Output variable: f1
+	Nodes: 26
+	Edges: 48
+	BDD show time (s): 0.05117225646972656
+	Output variable: f2
+	Nodes: 31
+	Edges: 58
+	BDD show time (s): 0.05130338668823242
+	Output variable: f3
+	Nodes: 20
+	Edges: 36
+	BDD show time (s): 0.05120515823364258
+	Output variable: f4
+	Nodes: 37
+	Edges: 70
+	BDD show time (s): 0.05122995376586914
+	Output variable: f5
+	Nodes: 43
+	Edges: 82
+	BDD show time (s): 0.051285505294799805
+	Output variable: f6
+	Nodes: 78
+	Edges: 152
+	BDD show time (s): 0.05154252052307129
+	Output variable: f7
+	Nodes: 43
+	Edges: 82
+	BDD show time (s): 0.05124497413635254
+	Output variable: f8
+	Nodes: 67
+	Edges: 130
+	BDD show time (s): 0.05152726173400879
+	Output variable: f9
+	Nodes: 46
+	Edges: 88
+	BDD show time (s): 0.05144071578979492
+	Output variable: f10
+	Nodes: 60
+	Edges: 116
+	BDD show time (s): 0.05244851112365723

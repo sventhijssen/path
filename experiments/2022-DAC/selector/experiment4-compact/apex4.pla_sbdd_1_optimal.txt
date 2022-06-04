@@ -1,0 +1,19 @@
+Benchmark: apex4
+Inputs: 9
+Outputs: 19
+BDD type: SBDD
+BDD construct time (s): 0.4978165626525879
+	Output variables: f0, f1, f2, f3, f4, f5, f6, f7, f8, f9, f10, f11, f12, f13, f14, f15, f16, f17, f18
+	Nodes: 990
+	Edges: 1976
+	BDD show time (s): 0.08274197578430176
+COMPACT version: K-labeling
+Nodes: 990
+Edges: 1874
+Layer 0: 495
+Layer 1: 512
+Rows: 495
+Columns: 512
+Objective: 1007.0
+Gap (%): 17.18
+COMPACT time (s): 4.872708320617676

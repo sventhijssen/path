@@ -1,0 +1,61 @@
+Benchmark: misex3
+Inputs: 14
+Outputs: 14
+BDD type: ROBDD
+BDD construct time (s): 0.7373435497283936
+	Output variable: f0
+	Nodes: 55
+	Edges: 106
+	BDD show time (s): 0.05146479606628418
+	Output variable: f1
+	Nodes: 55
+	Edges: 106
+	BDD show time (s): 0.05118393898010254
+	Output variable: f2
+	Nodes: 60
+	Edges: 116
+	BDD show time (s): 0.05124044418334961
+	Output variable: f3
+	Nodes: 60
+	Edges: 116
+	BDD show time (s): 0.0513608455657959
+	Output variable: f4
+	Nodes: 67
+	Edges: 130
+	BDD show time (s): 0.05125284194946289
+	Output variable: f5
+	Nodes: 61
+	Edges: 118
+	BDD show time (s): 0.05124688148498535
+	Output variable: f6
+	Nodes: 70
+	Edges: 136
+	BDD show time (s): 0.05134725570678711
+	Output variable: f7
+	Nodes: 70
+	Edges: 136
+	BDD show time (s): 0.05124211311340332
+	Output variable: f8
+	Nodes: 49
+	Edges: 94
+	BDD show time (s): 0.05129671096801758
+	Output variable: f9
+	Nodes: 82
+	Edges: 160
+	BDD show time (s): 0.05123448371887207
+	Output variable: f10
+	Nodes: 54
+	Edges: 104
+	BDD show time (s): 0.051466941833496094
+	Output variable: f11
+	Nodes: 54
+	Edges: 104
+	BDD show time (s): 0.051430463790893555
+	Output variable: f12
+	Nodes: 72
+	Edges: 140
+	BDD show time (s): 0.05370140075683594
+	Output variable: f13
+	Nodes: 117
+	Edges: 230
+	BDD show time (s): 0.05154275894165039

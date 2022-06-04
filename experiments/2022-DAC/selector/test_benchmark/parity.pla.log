@@ -1,0 +1,13 @@
+Benchmark: parity
+Inputs: 16
+Outputs: 1
+BDD type: ROBDD
+BDD construct time (s): 4.4985926151275635
+	Output variable: f0
+	Nodes: 33
+	Edges: 62
+	BDD show time (s): 0.05161285400390625
+Partition ILP time (s): 0.5177016258239746
+Partition objective: 8.0
+Number of crossbars: 8
+Gap (%): 0

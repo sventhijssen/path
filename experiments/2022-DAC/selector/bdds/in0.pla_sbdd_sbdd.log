@@ -1,0 +1,9 @@
+Benchmark: in0
+Inputs: 15
+Outputs: 11
+BDD type: SBDD
+BDD construct time (s): 0.700446605682373
+	Output variables: f0, f1, f2, f3, f4, f5, f6, f7, f8, f9, f10
+	Nodes: 385
+	Edges: 766
+	BDD show time (s): 0.07847714424133301

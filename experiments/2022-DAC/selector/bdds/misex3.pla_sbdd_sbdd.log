@@ -1,0 +1,9 @@
+Benchmark: misex3
+Inputs: 14
+Outputs: 14
+BDD type: SBDD
+BDD construct time (s): 0.712355375289917
+	Output variables: f0, f1, f2, f3, f4, f5, f6, f7, f8, f9, f10, f11, f12, f13
+	Nodes: 674
+	Edges: 1344
+	BDD show time (s): 0.08562541007995605
